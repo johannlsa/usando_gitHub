@@ -10,3 +10,5 @@ verificar a branch
 
 Baixar as atualizações
 ### git pull
+
+
